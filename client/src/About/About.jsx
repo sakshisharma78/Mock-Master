@@ -30,9 +30,9 @@ const teamMembers = [
   {
     name: "Sushant Singh",
     title: "Full Stack Web Developer",
-    photo: "/path/to/bob_photo.png",
-    github: "https://github.com/sushantsingh",
-    linkedin: "https://linkedin.com/in/sushantsingh"
+    photo: "https://media.licdn.com/dms/image/v2/D4D03AQETVamt6fwjXQ/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1666282795357?e=1733356800&v=beta&t=KbmPtb0EOvx2KC12ijtCYjrUocyvroijVPasQRtT-So",
+    github: "https://github.com/Sushant48",
+    linkedin: "https://linkedin.com/in/sushant48/"
   }
 ];
 
